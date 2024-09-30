@@ -14,5 +14,8 @@
   "description": "",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "devDependencies": {
+    "eleventy-auto-cache-buster": "^0.6.1"
   }
 }
