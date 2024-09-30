@@ -6,4 +6,4 @@ title: 'Our Other Eleventy page'
 
 # Hello World!
 
-[Index page](./)
+[Index page](/)
